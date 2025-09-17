@@ -1,4 +1,4 @@
-# Mini Multiplayer Online Role Playing Game
+***# Mini Multiplayer Online Role Playing Game
 
 Welcome to the world's simplest multiplayer game, where all you can do is hang out, and walk around!
 
